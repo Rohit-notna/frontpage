@@ -5,7 +5,7 @@ export default function Navbar1() {
     <div className='bg-final py-3 px-24'>
        
       <div className='flex  text-white bg-light p-2'>
-        <h1 className='text-sm bg-orange-600 text-black px-2'>Test</h1>
+        <h1 className='text-sm bg-yellow-700 text-black px-2'>Test</h1>
 <h1 className='text-sm ml-3'>These are the test payouts and do not affect the actual balance. They are used only for the purpose of integrating events.</h1>
 <h1 className='text-sm ml-4 text-button'>Learn more </h1>
     

@@ -32,7 +32,7 @@ export default function Page1() {
         <div className="flex text-white mt-40 pb-20">
         <div className="w-11/12"></div>
         <div className="mr-auto">
-   <button className="flex bg-violet-400 rounded-lg px-2 py-2"> 
+   <button className="flex bg-violet-400 rounded-xl px-2 py-2"> 
      <span className="rounded-2xl text-sm bg-violet-300 px-2">
                x
               </span>
