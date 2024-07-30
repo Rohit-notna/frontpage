@@ -58,7 +58,7 @@ export default function Navbar() {
      </li>
      <li className='flex items-center ml-4'>
       
-     <Icon icon="ri:mic-fill"   className="h-8 mt-1  text-md font-extrabold text-yellow-600" />
+     <Icon icon="emojione-monotone:speaker-high-volume"      className="h-8 mt-1  text-md font-extrabold text-yellow-600" />
      </li>
      <li className='flex items-center ml-4'>
        
